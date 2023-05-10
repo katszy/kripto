@@ -1,1 +1,1 @@
-Homework for Cryptography course - "custom bitcoin"
+Homework for cryptography course - implementation of ITKoin, a "custom bitcoin"
